@@ -1,6 +1,6 @@
 # MCSC-1
 
-**THIS COMMIT IS STILL ICPI-20, WIP**
+**OUTDATED REPOSITORY - Refer to MCSM token source until updated, MCSC-1 launch build is ICRC-1**
 
 Welcome to your new MCSC-1 project and to the internet computer development community. Creating a new project adds a README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
